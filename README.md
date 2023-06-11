@@ -23,5 +23,12 @@ At last, when you visit to Japan, Let's watch Takaraduka Revue!!
 takaraduka_actress_8period.csvは存在しません。  
 これは8期生のページ(宝塚歌劇団8期生)は"宝塚歌劇団7・8期生"にリダイレクトされているためです。したがって、8期生の生徒はtakaraduka_actress_7period.csvに収録されています。
 
+## 2023/6/11
+Wikipediaに109期生の生徒一覧のページが作成されていたため更新しました。本日、私の最推しだった宙組トップスターの真風さんが退団でした。
+
+I have updated 109 periods actress list, because by finding its page on wikipedia. Today, my most favorite takaraduka actress "Makaze Suzuho" graduated from Takaraduka Revue. I'm so sad...
+
 ## 2023/5/3
-109期生が入団済みですが、Wikipediaに109期生の生徒一覧のページがまだ作成されていないため更新しておりません
+109期生が入団済みですが、Wikipediaに109期生の生徒一覧のページがまだ作成されていないため更新しておりません。
+
+109 Periods actresses had entered, but 109 periods actress list has not created yet on wikipedia. So I don't update this list.
