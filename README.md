@@ -23,6 +23,17 @@ At last, when you visit to Japan, Let's watch Takaraduka Revue!!
 takaraduka_actress_8period.csvは存在しません。  
 これは8期生のページ(宝塚歌劇団8期生)は"宝塚歌劇団7・8期生"にリダイレクトされているためです。したがって、8期生の生徒はtakaraduka_actress_7period.csvに収録されています。
 
+## 2024/4/21
+Wikipediaに110期生の生徒一覧のページが作成されていたため更新しました。  
+気づきましたが、ここ数年、毎年の新入団生のページを新規作成しているのは、Style-FさんというWikipedianの方でした。  
+投稿記録を閲覧したところ、宝塚関連の記事の編集を多く手掛けているようです。毎年のページ作成、ありがとうございます。
+
+I have updated 109 periods actress list, because by finding its page on wikipedia.  
+
+I noticed that for the past few years, it was a Wikipedian named Style-F who created a new page for new members each year.   
+I lookd his(her) edit log, he(she) has edited many pages of Takaraduka Revue.  
+Thank you for creating new page each year.
+
 ## 2023/6/11
 Wikipediaに109期生の生徒一覧のページが作成されていたため更新しました。本日、私の最推しだった宙組トップスターの真風さんが退団でした。
 
